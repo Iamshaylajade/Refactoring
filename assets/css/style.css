@@ -1,3 +1,4 @@
+/* this is the styling for the header */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -15,6 +16,7 @@ body {
     color: #ffffff;
 }
 
+/* this is the right side of the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,11 +52,12 @@ p {
     font-size: 16px;
 }
 
+/* this is the styling for the center image */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
 }
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* this is the styling for the divided content at the bottom right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/* this is the footer note at the very bottom of the page */
 .footer {
     padding: 30px;
     clear: both;
